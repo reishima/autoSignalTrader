@@ -14,3 +14,5 @@ TP @ 2751
 Do remember to set ur telegram API (https://my.telegram.org/auth) and XAUUSD symbol based on broker.
 
 Default lot size is 0.1 - only 1 layer will be set
+
+**THIS PROGRAM IS IN BETA AND NOT REPONSIBLE FOR ANY LOSSES INCURRED 
